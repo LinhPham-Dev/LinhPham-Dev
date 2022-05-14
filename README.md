@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif?cid=ecf05e47jx2tbidt7kedj80rtesa3c7ytx0x6lxbdeaz6njr&rid=giphy.gif&ct=g">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm Phạm Ngọc Linh 19 years old - A fullstack developer!)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Phạm%20Ngọc%20Linh%2019%20years%20old%20-%20A%20fullstack%20developer!)  
 ![Profile views](https://komarev.com/ghpvc/?username=LinhPham-Dev)
 
 ## 🛠 My skills
