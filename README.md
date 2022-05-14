@@ -2,8 +2,8 @@
   <img src="https://media1.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif?cid=ecf05e47jx2tbidt7kedj80rtesa3c7ytx0x6lxbdeaz6njr&rid=giphy.gif&ct=g">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Phạm%20Ngọc%20Linh%20-%20A%20fullstack%20developer!)  
-![Profile views](https://komarev.com/ghpvc/?username=LinhPham-Dev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Phạm%20Ngọc%20Linh%2019%20years%20old%20-%20A%20fullstack%20developer!)  
+![Profile views](https://komarev.com/ghpvc/?username=kulinhdev)
 
 ## 🛠 My skills
 
@@ -24,17 +24,17 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23f1413d.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%230db7ed.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 ## 📚 Github Status
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhPham-Dev&layout=compact&theme=tokyonight&langs_count=6" height="165">
-<img src="https://github-readme-stats.vercel.app/api?username=LinhPham-Dev&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinhdev&layout=compact&theme=tokyonight&langs_count=6" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=kulinhdev&show_icons=true&theme=tokyonight" height="165">
 
 ## 🌐️ Reach me at
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinhPham-Dev)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulinhdev)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phamlinh.dev202)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877882975855992852)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/enaypi)
