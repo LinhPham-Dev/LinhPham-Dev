@@ -2,10 +2,10 @@
   <img src="https://media1.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif?cid=ecf05e47jx2tbidt7kedj80rtesa3c7ytx0x6lxbdeaz6njr&rid=giphy.gif&ct=g">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Phong%20Nguyen%20-%20A%20frontend%20developer)  
-![Profile views](https://komarev.com/ghpvc/?username=napthedev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm Phạm Ngọc Linh 19 years old - A fullstack developer!)  
+![Profile views](https://komarev.com/ghpvc/?username=LinhPham-Dev)
 
-## 🛠 My knowledge
+## 🛠 My skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,12 +27,12 @@
 
 ## 📚 Github Status
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=napthedev&layout=compact&theme=tokyonight&langs_count=6" height="165">
-<img src="https://github-readme-stats.vercel.app/api?username=napthedev&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhPham-Dev&layout=compact&theme=tokyonight&langs_count=6" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=LinhPham-Dev&show_icons=true&theme=tokyonight" height="165">
 
 ## 🌐️ Reach me at
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/napthedev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/napthedev)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinhPham-Dev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phamlinh.dev202)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877882975855992852)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/enaypi)
