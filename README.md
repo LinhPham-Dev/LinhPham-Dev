@@ -23,7 +23,7 @@
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-white?style=for-the-badge&logo=express.js&logoColor=%23007ACC)
+![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=%23007ACC)
 ![PHP](https://img.shields.io/badge/php-%23316192.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23f1413d.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white)
