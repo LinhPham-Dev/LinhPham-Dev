@@ -11,7 +11,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![BootStrap5](https://img.shields.io/badge/-bootstrap-%23E44D27?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![BootStrap5](https://img.shields.io/badge/bootstrap-%23E44D27?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,12 +32,12 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![My_SQL](http://img.shields.io/badge/-mysql-DD0031?style=flat-square&logo=oracle)
+![MySQL](http://img.shields.io/badge/mysql-DD0031?style=for-the-badge&logo=mysql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Others
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
