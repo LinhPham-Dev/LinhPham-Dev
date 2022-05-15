@@ -33,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](http://img.shields.io/badge/mysql-DD0031?style=for-the-badge&logo=mysql)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style==for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Others
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
